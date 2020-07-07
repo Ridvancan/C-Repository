@@ -1,0 +1,7 @@
+C:\Users\Kıran\source\repos\Attribute\Attribute\bin\Debug\Attribute.exe.config
+C:\Users\Kıran\source\repos\Attribute\Attribute\bin\Debug\Attribute.exe
+C:\Users\Kıran\source\repos\Attribute\Attribute\bin\Debug\Attribute.pdb
+C:\Users\Kıran\source\repos\Attribute\Attribute\obj\Debug\Attribute.csprojAssemblyReference.cache
+C:\Users\Kıran\source\repos\Attribute\Attribute\obj\Debug\Attribute.csproj.CoreCompileInputs.cache
+C:\Users\Kıran\source\repos\Attribute\Attribute\obj\Debug\Attribute.exe
+C:\Users\Kıran\source\repos\Attribute\Attribute\obj\Debug\Attribute.pdb

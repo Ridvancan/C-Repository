@@ -1,0 +1,7 @@
+C:\Users\Kıran\source\repos\Entity\Entity\bin\Debug\Entity.exe.config
+C:\Users\Kıran\source\repos\Entity\Entity\bin\Debug\Entity.exe
+C:\Users\Kıran\source\repos\Entity\Entity\bin\Debug\Entity.pdb
+C:\Users\Kıran\source\repos\Entity\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Kıran\source\repos\Entity\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Kıran\source\repos\Entity\Entity\obj\Debug\Entity.exe
+C:\Users\Kıran\source\repos\Entity\Entity\obj\Debug\Entity.pdb

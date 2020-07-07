@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adoo", "Adoo\Adoo.csproj", "{9CFA0E69-21AB-45C2-A7B8-7B8B4B0A92C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoDemo", "AdoDemo\AdoDemo.csproj", "{DD3D003E-5C41-4179-8D1F-3105F058C254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CFA0E69-21AB-45C2-A7B8-7B8B4B0A92C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFA0E69-21AB-45C2-A7B8-7B8B4B0A92C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFA0E69-21AB-45C2-A7B8-7B8B4B0A92C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFA0E69-21AB-45C2-A7B8-7B8B4B0A92C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3D003E-5C41-4179-8D1F-3105F058C254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3D003E-5C41-4179-8D1F-3105F058C254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3D003E-5C41-4179-8D1F-3105F058C254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3D003E-5C41-4179-8D1F-3105F058C254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F79A949E-4813-4FF1-8C3B-250C4D056B40}
+	EndGlobalSection
+EndGlobal

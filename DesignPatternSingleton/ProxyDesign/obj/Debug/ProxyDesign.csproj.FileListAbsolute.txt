@@ -1,0 +1,7 @@
+C:\Users\Kıran\source\repos\DesignPatternSingleton\ProxyDesign\bin\Debug\ProxyDesign.exe.config
+C:\Users\Kıran\source\repos\DesignPatternSingleton\ProxyDesign\bin\Debug\ProxyDesign.exe
+C:\Users\Kıran\source\repos\DesignPatternSingleton\ProxyDesign\bin\Debug\ProxyDesign.pdb
+C:\Users\Kıran\source\repos\DesignPatternSingleton\ProxyDesign\obj\Debug\ProxyDesign.csprojAssemblyReference.cache
+C:\Users\Kıran\source\repos\DesignPatternSingleton\ProxyDesign\obj\Debug\ProxyDesign.csproj.CoreCompileInputs.cache
+C:\Users\Kıran\source\repos\DesignPatternSingleton\ProxyDesign\obj\Debug\ProxyDesign.exe
+C:\Users\Kıran\source\repos\DesignPatternSingleton\ProxyDesign\obj\Debug\ProxyDesign.pdb

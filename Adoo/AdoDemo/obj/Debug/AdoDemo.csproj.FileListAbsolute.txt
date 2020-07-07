@@ -1,0 +1,10 @@
+C:\Users\Kıran\source\repos\Adoo\AdoDemo\bin\Debug\AdoDemo.exe.config
+C:\Users\Kıran\source\repos\Adoo\AdoDemo\bin\Debug\AdoDemo.exe
+C:\Users\Kıran\source\repos\Adoo\AdoDemo\bin\Debug\AdoDemo.pdb
+C:\Users\Kıran\source\repos\Adoo\AdoDemo\obj\Debug\AdoDemo.csprojAssemblyReference.cache
+C:\Users\Kıran\source\repos\Adoo\AdoDemo\obj\Debug\AdoDemo.Form1.resources
+C:\Users\Kıran\source\repos\Adoo\AdoDemo\obj\Debug\AdoDemo.Properties.Resources.resources
+C:\Users\Kıran\source\repos\Adoo\AdoDemo\obj\Debug\AdoDemo.csproj.GenerateResource.cache
+C:\Users\Kıran\source\repos\Adoo\AdoDemo\obj\Debug\AdoDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kıran\source\repos\Adoo\AdoDemo\obj\Debug\AdoDemo.exe
+C:\Users\Kıran\source\repos\Adoo\AdoDemo\obj\Debug\AdoDemo.pdb

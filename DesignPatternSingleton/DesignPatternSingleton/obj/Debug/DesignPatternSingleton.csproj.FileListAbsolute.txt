@@ -1,0 +1,7 @@
+C:\Users\Kıran\source\repos\DesignPatternSingleton\DesignPatternSingleton\bin\Debug\DesignPatternSingleton.exe.config
+C:\Users\Kıran\source\repos\DesignPatternSingleton\DesignPatternSingleton\bin\Debug\DesignPatternSingleton.exe
+C:\Users\Kıran\source\repos\DesignPatternSingleton\DesignPatternSingleton\bin\Debug\DesignPatternSingleton.pdb
+C:\Users\Kıran\source\repos\DesignPatternSingleton\DesignPatternSingleton\obj\Debug\DesignPatternSingleton.csprojAssemblyReference.cache
+C:\Users\Kıran\source\repos\DesignPatternSingleton\DesignPatternSingleton\obj\Debug\DesignPatternSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Kıran\source\repos\DesignPatternSingleton\DesignPatternSingleton\obj\Debug\DesignPatternSingleton.exe
+C:\Users\Kıran\source\repos\DesignPatternSingleton\DesignPatternSingleton\obj\Debug\DesignPatternSingleton.pdb

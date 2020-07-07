@@ -1,0 +1,15 @@
+C:\Users\Kıran\source\repos\Entity\EntityDemo\bin\Debug\EntityDemo.exe.config
+C:\Users\Kıran\source\repos\Entity\EntityDemo\bin\Debug\EntityDemo.exe
+C:\Users\Kıran\source\repos\Entity\EntityDemo\bin\Debug\EntityDemo.pdb
+C:\Users\Kıran\source\repos\Entity\EntityDemo\bin\Debug\EntityFramework.dll
+C:\Users\Kıran\source\repos\Entity\EntityDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kıran\source\repos\Entity\EntityDemo\bin\Debug\EntityFramework.xml
+C:\Users\Kıran\source\repos\Entity\EntityDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kıran\source\repos\Entity\EntityDemo\obj\Debug\EntityDemo.csprojAssemblyReference.cache
+C:\Users\Kıran\source\repos\Entity\EntityDemo\obj\Debug\EntityDemo.Form1.resources
+C:\Users\Kıran\source\repos\Entity\EntityDemo\obj\Debug\EntityDemo.Properties.Resources.resources
+C:\Users\Kıran\source\repos\Entity\EntityDemo\obj\Debug\EntityDemo.csproj.GenerateResource.cache
+C:\Users\Kıran\source\repos\Entity\EntityDemo\obj\Debug\EntityDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kıran\source\repos\Entity\EntityDemo\obj\Debug\EntityDemo.csproj.CopyComplete
+C:\Users\Kıran\source\repos\Entity\EntityDemo\obj\Debug\EntityDemo.exe
+C:\Users\Kıran\source\repos\Entity\EntityDemo\obj\Debug\EntityDemo.pdb

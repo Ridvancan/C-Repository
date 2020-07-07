@@ -1,0 +1,6 @@
+C:\Users\Kıran\source\repos\DesignPatternSingleton\TemplateDesign\bin\Debug\TemplateDesign.exe.config
+C:\Users\Kıran\source\repos\DesignPatternSingleton\TemplateDesign\bin\Debug\TemplateDesign.exe
+C:\Users\Kıran\source\repos\DesignPatternSingleton\TemplateDesign\bin\Debug\TemplateDesign.pdb
+C:\Users\Kıran\source\repos\DesignPatternSingleton\TemplateDesign\obj\Debug\TemplateDesign.csproj.CoreCompileInputs.cache
+C:\Users\Kıran\source\repos\DesignPatternSingleton\TemplateDesign\obj\Debug\TemplateDesign.exe
+C:\Users\Kıran\source\repos\DesignPatternSingleton\TemplateDesign\obj\Debug\TemplateDesign.pdb

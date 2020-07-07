@@ -1,0 +1,6 @@
+C:\Users\Kıran\source\repos\DesignPatternSingleton\FactoryMethodDesign\bin\Debug\FactoryMethodDesign.exe.config
+C:\Users\Kıran\source\repos\DesignPatternSingleton\FactoryMethodDesign\bin\Debug\FactoryMethodDesign.exe
+C:\Users\Kıran\source\repos\DesignPatternSingleton\FactoryMethodDesign\bin\Debug\FactoryMethodDesign.pdb
+C:\Users\Kıran\source\repos\DesignPatternSingleton\FactoryMethodDesign\obj\Debug\FactoryMethodDesign.csproj.CoreCompileInputs.cache
+C:\Users\Kıran\source\repos\DesignPatternSingleton\FactoryMethodDesign\obj\Debug\FactoryMethodDesign.exe
+C:\Users\Kıran\source\repos\DesignPatternSingleton\FactoryMethodDesign\obj\Debug\FactoryMethodDesign.pdb
