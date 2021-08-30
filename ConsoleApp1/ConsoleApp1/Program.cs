@@ -19,6 +19,8 @@ namespace ConsoleApp1
             {
                 if (aranacakKelime == m)
                 {
+                    //Bu bir deneme kısmıdır 
+                    Console.WriteLine("selam");
                     Console.WriteLine("Aranan Kelime Bulundu...");
                 }
             }
